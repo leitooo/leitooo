@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! I am Leonardo 👋 Software Engineering 
+![CatTypingGIF](https://github.com/user-attachments/assets/eda2d3c6-8b14-4504-818f-ba19f7c4b6f6)
+
 
 <!--
 **leitooo/leitooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
