@@ -4,6 +4,8 @@
 ✔️ I'm currently learning:
 
 - AWS, Linux, and GitHub Actions
+- CI/CD
+- DevOps Practices
 
 👩‍💻 Today my job is application consulting and I work with the following technologies
 - Scripting with Python
