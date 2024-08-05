@@ -6,7 +6,7 @@
 - AWS, Linux, and GitHub Actions
 
 👩‍💻 Today my job is application consulting and I work with the following technologies
-- Scrpint with Python
+- Scripting with Python
 - Databases: DB2, Oracle, Sql Server
 - Docker
 - RedHat OpenShift
