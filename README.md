@@ -7,7 +7,7 @@
 
 👩‍💻 Today my job is application consulting and I work with the following technologies
 - Scripting with Python
-- Databases: DB2, Oracle, Sql Server
+- Databases: DB2, Oracle, Sql Server, PosgreSql
 - Docker
 - RedHat OpenShift
 - IBM Maximo
