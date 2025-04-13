@@ -1,4 +1,4 @@
-## Hi! I'm Leonardo 👋 Software Engineer
+## Hi! I'm Leonardo 👋 DevOps Engineer
 ![CatTypingGIF](https://github.com/user-attachments/assets/eda2d3c6-8b14-4504-818f-ba19f7c4b6f6)
 
 ✔️ I'm currently learning:
