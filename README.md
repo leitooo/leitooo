@@ -12,7 +12,9 @@
 - Databases: DB2, Oracle, Sql Server, PosgreSql
 - Docker
 - RedHat OpenShift
-- IBM Maximo
+- AWS
+- Grafana
+- Jenkins
 
 ☕ Get in touch
 - LinkedIn : https://www.linkedin.com/in/leonardo-quezada-valdivieso-5b50031b9/
